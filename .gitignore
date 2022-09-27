@@ -1,6 +1,6 @@
 *.pyc
-/static
-/media
-/resource
+static
 .vscode
+__pycache__
+media
 db.sqlite3
