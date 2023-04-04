@@ -73,6 +73,9 @@ class ProductSpecification(models.Model):
     )
 
     class Meta:
+        '''
+        The Meta class is used to provide additional information
+        '''
         verbose_name = _("Product Specification")
         verbose_name_plural = _("Product Specifications")
 
